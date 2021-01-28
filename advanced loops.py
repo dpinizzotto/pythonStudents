@@ -34,5 +34,6 @@ for x in range(maxGrades):
 #we will do the average
 average = total/maxGrades
 
-print("your average is",average)
+
+print(f"your average is {average:.2f}")
 
